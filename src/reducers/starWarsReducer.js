@@ -1,4 +1,4 @@
-import { CHAR_FETCHING, CHAR_SUCCESS, CHAR_FAILURE } "../actions";
+import { CHAR_FETCHING, CHAR_SUCCESS, CHAR_FAILURE } from "../actions";
 const initialState = {
   fetching: false,
   error: '',
